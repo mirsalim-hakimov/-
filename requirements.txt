@@ -1,0 +1,2 @@
+# No external dependencies needed - only Python standard library
+# tkinter, random, json, os, datetime are built-in
