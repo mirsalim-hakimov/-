@@ -1,0 +1,11 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.dll
+*.exe
+.DS_Store
+*.log
+tasks_backup.json
